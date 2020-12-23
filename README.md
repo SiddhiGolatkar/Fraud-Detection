@@ -1,2 +1,3 @@
 # Fraud-Detection
-INSOFE - Mid term Hackathon (Mith)
+
+## INSOFE - Mid term Hackathon (Mith)
